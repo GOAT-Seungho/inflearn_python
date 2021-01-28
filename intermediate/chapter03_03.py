@@ -1,4 +1,4 @@
-# Chapter 03-03
+# Chapter 03-03 
 # 파이썬 데이터 모델
 # Special Method (Magic Method)
 # 파이썬의 핵심 -> 시퀀스(Sequence), 반복(Iterator), 함수(Functions), Class(클래스)
