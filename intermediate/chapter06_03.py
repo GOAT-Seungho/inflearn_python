@@ -1,4 +1,4 @@
-# Chapter 06-02
+# Chapter 06-03
 # 병행성(Concurrency) : 한 컴퓨터가 여러 일을 동시에 수행 -> 단일 프로그램 안에서 여러 일을 쉽게 해결
 # 병렬성(Parallelism) : 여러 컴퓨터가 여러 작업을 동시에 수행 -> 속도 
 # 코루틴(Coroutine)
