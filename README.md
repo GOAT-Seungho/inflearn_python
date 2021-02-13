@@ -14,9 +14,9 @@
 - [x] Chapter 02-1 : Print 사용법 [210211]
 - [x] Chapter 02-2 : 변수 [210211]
 - [x] Chapter 03-1 : 숫자형 [210211]
-- [ ] Chapter 03-2 : 문자형
-- [ ] Chapter 03-3 : 리스트
-- [ ] Chapter 03-4 : 튜플
-- [ ] Chapter 03-5 : 딕셔너리
+- [x] Chapter 03-2 : 문자형 [210213]
+- [x] Chapter 03-3 : 리스트 [210213]
+- [x] Chapter 03-4 : 튜플 [210213]
+- [x] Chapter 03-5 : 딕셔너리 [210213]
 - [ ] Chapter 03-6 : 집합(Set)
 
